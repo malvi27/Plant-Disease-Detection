@@ -1,4 +1,4 @@
-# Plant-Disease-Detection
+# Plant-Disease-Prediction
 Deep Learning Model
 
 This project aims to detect plant diseases from images using a Convolutional Neural Network (CNN). It utilizes the TensorFlow and Keras libraries for building and training the deep learning model. The dataset used contains images of potato plants categorized into different classes representing various diseases.
